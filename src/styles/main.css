@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.shop {
+    flex-basis: 33%;
+}
+header {
+    text-align: center;
+    padding: 20px;
+}
